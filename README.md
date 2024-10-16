@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Karan Gulve</h1>
+<h1 align="center">Hi 👋, I'm Prathamesh Dhanashri</h1>
 
 <p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+A+Passionate+Web+Developer+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻">
