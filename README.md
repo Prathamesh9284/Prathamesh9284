@@ -8,11 +8,11 @@
 <h3>     </h3>
 <img align="right" alt="coding" width="550" height=auto src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh9284&label=Profile%20views&color=0e75b6&style=flat" alt="KaranGulve4342" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh9284&label=Profile%20views&color=0e75b6&style=flat" alt="Prathamesh9284" /> </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/karangulve4342" target="blank"><img src="https://img.shields.io/twitter/follow/karangulve4342?logo=twitter&style=for-the-badge" alt="karangulve4342" /></a> </p>
+<p align="left"> <a href="https://x.com/PrathameshD0002" target="blank"><img src="https://img.shields.io/twitter/follow/karangulve4342?logo=twitter&style=for-the-badge" alt="karangulve4342" /></a> </p>
 
 - 🔭 I’m currently working on **Customer services Web Portal**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **prathameshdhanashri1@gmail.com**
 
-- 📄 Know about my experiences [My Resume..](https://drive.google.com/file/d/1MlNdUfT6zzGRd74Ehjiv_e5qdGb03qdE/view?usp=sharing)
+- 📄 Know about my experiences [My Resume..](https://drive.google.com/drive/folders/18ejQwD2tIVH4Fi2DOQT03NmwJrheNcC0?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
