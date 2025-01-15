@@ -6,7 +6,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+A+Passionate+Web+Developer+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻">
 </p>
 <h3>     </h3>
-<img align="right" alt="coding" width="550" height=auto src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXozMjMzY2g4eGUzN2xldGxjMG9ieWR0bGxwb2V4b280OWxtdDltdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif">
+<img align="right" alt="coding" width="550" height=auto src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFjNmZ6Zjg3dmUxdGgyNjhieTI2eWFkMDl5b3A1cnh6ZmFnZ2o5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh9284&label=Profile%20views&color=0e75b6&style=flat" alt="Prathamesh9284" /> </p>
 
