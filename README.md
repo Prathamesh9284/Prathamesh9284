@@ -20,17 +20,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/karan-the-animator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="karan-the-animator" height="30" width="40" /></a>
-<a href="https://twitter.com/karangulve4342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karangulve4342" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karangulve4342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karangulve4342" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/prathameshdhanashri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prathamesh9284" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23150922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23150922" height="30" width="40" /></a>
-<a href="https://codesandbox.com/karanpg2306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="karanpg2306" height="30" width="40" /></a>
-<a href="https://instagram.com/karangulve_4342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karangulve_4342" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/karan4342" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karan4342" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/karan_4342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karan_4342" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan4342" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@karanpg2306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@karanpg2306" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/karanpdp3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karanpdp3a" height="30" width="40" /></a>
+<a href="https://instagram.com/prathamesh_00002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karangulve_4342" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prathamesh_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karan_4342" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prathamesh_0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan4342" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/prathameshdlm7c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karanpdp3a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
