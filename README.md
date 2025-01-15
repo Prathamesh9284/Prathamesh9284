@@ -28,29 +28,41 @@
 <a href="https://www.leetcode.com/prathamesh_0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan4342" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prathameshdlm7c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karanpdp3a" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <i class="devicon-java-plain" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-python-plain" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-mysql-plain-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-mongodb-plain-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-firebase-plain-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-html5-plain-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-css3-plain-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-javascript-plain" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-react-original-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-nextjs-original-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-nodejs-plain-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-flask-original-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-fastapi-plain-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-powerbi-plain" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-pandas-original-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-numpy-original-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-tensorflow-original" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-pytorch-original" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-jupyter-plain-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-scikit_learn-plain-wordmark" style="font-size: 40px; margin-right: 10px;"></i>
+<p align="left"> 
+  <!-- Programming Languages -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+
+  <!-- Frontend Development -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40"/> </a>
+
+  <!-- Backend Development -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> </a>
+
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> </a>
+
+  <!-- Machine Learning, Deep Learning, Data Science -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prathamesh9284&show_icons=true&locale=en&layout=compact" alt="Prathamesh9284" /></p>
