@@ -14,6 +14,8 @@
 
 <p align="left"> <a href="https://x.com/PrathameshD0002" target="blank"><img src="https://img.shields.io/twitter/follow/Prathamesh9284?logo=twitter&style=for-the-badge" alt="Prathamesh9284" /></a> </p>
 
+- 💻 Code is my canvas, and logic is my art.
+
 - 📫 How to reach me **prathameshdhanashri1@gmail.com**
 
 - 📄 Know about my experiences [My Resume..](https://drive.google.com/drive/folders/18ejQwD2tIVH4Fi2DOQT03NmwJrheNcC0?usp=sharing)
