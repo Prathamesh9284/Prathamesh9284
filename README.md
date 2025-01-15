@@ -64,6 +64,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathamesh9284&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="Prathamesh9284" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh9284&" alt="Prathamesh9284" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh9284&4&theme=github_dark_dimmed&" alt="Prathamesh9284" /></p>
 
 
