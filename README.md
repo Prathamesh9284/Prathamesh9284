@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Dhanashri</h1>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+A+Passionate+Web+Developer+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+A+Passionate+Data+Scientist+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻">
 </p>
 <h3>     </h3>
 <img align="right" alt="coding" width="550" height=auto src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NyMzM5MjJ2ejFoeTFiMmt2bm9vaWppMXFiMjlpYThoajRvY2I0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
